@@ -150,3 +150,4 @@ AND
 11	#5 OR #6 OR #7 OR #8 OR #9 OR #10
 12	#1 AND #4 AND #11
 13	#12 and Article (Document Types) and English (Languages)
+
