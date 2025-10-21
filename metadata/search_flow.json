@@ -1,0 +1,21 @@
+{
+  "database.hits" : 4506,
+  "additional.records": 8,
+  "database.hits.duplicates.removed" : 943,
+  "records.screened" : 3563,
+  "full.text.assessed.for.eligibility" : 440,
+  "full.text.excluded.reasons" : {
+    "Other disorder" : 23,
+    "Other intervention" : 43,
+    "Other population" : 19,
+    "No RCT" : 31,
+    "Control not inactive" : 20,
+    "Language" : 3,
+    "Unpublished" : 70,
+    "Sample size too small" : 4,
+    "Same sample as other trial" : 118,
+    "Effect size could not be calculated" : 35,
+    "Duplicate" : 5
+  },
+  "included" : 74
+}

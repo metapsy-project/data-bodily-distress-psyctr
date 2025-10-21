@@ -1,0 +1,152 @@
+**PUBMED**
+
+(“Somatoform disorders” [MeSH Terms] OR “somatization disorder” [MeSH Terms] OR somatization disorder [MeSH Terms] OR Neurasthenia [MeSH Terms] OR “conversion disorder” [MeSH Terms] OR “psychophysiological disorder” [MeSH Terms] OR “Psychosomatic medicine” [MeSH Terms] OR Fibromyalgia [MeSH Terms] OR “Fatigue Syndrome, Chronic” [MeSH Terms] OR “Irritable Bowel Syndrome” [MeSH Terms] OR “Colonic diseases, Functional” [MeSH Terms] OR “briquet syndrome” [MeSH Terms] OR 
+“somatoform disorder*” [All Fields] OR somatoform [All Fields] OR somatiz* [All Fields] OR somatis* [All Fields] OR “somatic symptom disorder*” [All Fields] OR (somatic AND symptom*) OR “psychophysiological disorder*” [All Fields] OR “psychophysiologic disorder*” [All Fields] OR psychosomat* [All Fields] OR “persistent physical symptom*” [All Fields] OR “persistent somatic symptom*” [All Fields] OR “bodily distress” [All Fields] OR "body distress" [All Fields] OR “Physical Symptom Disorder*” [All Fields] OR “pain disorder*” [All Fields] OR 
+multisomat* [All Fields] OR "multi?somat*" [All Fields] OR polysymptom* [All Fields] OR "poly?symptom*" [All Fields] OR (multiple AND (“physical symptom*” OR “symptom diagnos*”)) OR 
+„frequent attend*” [Title/Abstract] OR „high utilis*” [Title/Abstract] OR „high utiliz*” [Title/Abstract] OR 
+“medically unexplain*” [All Fields] OR “organically unexplain*” [All Fields] OR MUS [All Fields] OR MUPS [All Fields] OR “unexplained medical*” [All Fields] OR "unexplained symptom*" [All Fields] OR "unexplained syndrom*" [All Fields] OR "unexplained illness*" [All Fields] OR 
+nonorganic [All Fields] OR “non?organic” [All Fields] OR “non?specific complain*” [All Fields] OR “non?specific symptom*” [All Fields] OR 
+“psychosomatic syndrom*” [All Fields] OR 
+FSS [All Fields] OR "functional somatic syndrome*" [All Fields] OR "functional somatic disorder*" [All Fields] OR "functional symptom" [All Fields] OR "functional disorder*" [All Fields] OR "functional syndrome*" [All Fields] OR "functional somatic" [All Fields] OR "functional illness*" [All Fields] OR
+OR 
+((irritable OR functional) AND (bowel* OR colon*)) OR “functional gastrointestinal*” [All Fields] OR IBS [All Fields] OR 
+fibromyalgi* [All Fields] OR fibrositis [All Fields] OR FM [All Fields] OR fibromyositis [All Fields] OR myofibrositis [All Fields] OR 
+“chronic widespread pain*” [All Fields] OR “widespread musculoskeletal pain*” [All Fields] OR “myofascial pain*” [All Fields] OR “persistent pain*” [All Fields] OR “chronic intractable benign pain*” [All Fields] OR 
+“fatigue syndrome*” [All Fields] OR “psychogenic fatigue” [All Fields] OR “myalgic encephalomyelitis*” [All Fields] OR “myalgic encephalopath*” [All Fields] OR CFS [All Fields] OR “CFS/ME” [All Fields] OR “postviral fatigue syndrome*” [All Fields] OR “systemic exertion intolerance*” [All Fields]) OR “post-exertional malaise” [All Fields])
+
+AND 
+(cbt [All Fields] OR "cognitive behavioral therap*" [All Fields] OR "cognitive behavioural therap*" [All Fields] OR "cognitive behavioral treatment*" [All Fields] OR "cognitive behavioural treatment*" [All Fields] OR "cognition therap*" [All Fields] OR "cognition treatment*" [All Fields] OR "cognitive therap*" [All Fields] OR "cognitive treatment*" [All Fields] OR 
+"cognitive restructuring" [All Fields] OR (cognitive AND “perceptual change*") OR "cognitive reappraisal" [All Fields] OR “exposure therap*” [All Fields] OR “behavior modification*” OR “behaviour modification*” OR 
+(“problem?solving” AND (therap* OR treatment*)) OR 
+("third wave" AND (therap* OR treatment*)) OR 
+mindful* [All Fields] OR MBT [All Fields] OR MBCT [All Fields] OR MBSR [All Fields] OR 
+(acceptance AND commitment) OR 
+(dialectic* AND (behavioural OR behavioral)) OR DBT [All Fields] OR 
+"metacognitive therap*" [All Fields] OR "metacognitive treatment*" [All Fields] OR "meta?cognitive therap*" [All Fields] OR "meta?cognitive treatment*" [All Fields] OR MCT [All Fields] OR 
+((Schematherap* OR “schema therap*”) AND Young) OR
+“emotion?regulation skills training*” [All Fields] OR “emotion?regulation training*” [All Fields] OR “unified protocol*” OR
+“compassion focused therap*” [All Fields] OR “compassionate mind training*” [All Fields] OR “well-being therap*” [All Fields] OR
+“functional analytic psychotherap*” [All Fields] OR
+“positive psychotherap*” [All Fields] OR 
+“integrative behavioural couples therap*” [All Fields] OR “integrative behavioural couple therap*” [All Fields] OR 
+“mode deactivation therap*” [All Fields]) 
+
+Limits: Randomized Controlled Trial, Meta-analysis, Systematic Review 
+
+References for the search terms: (Cuijpers et al., 2008; Haugmark et al., 2019; Heidenreich & Michalak, 2013; Henningsen et al., 2018; van Dessel et al., 2014)
+
+**PsychInfo**
+
+(“somatoform disorder*” OR somatoform OR somatiz* OR somatis* OR “somatic symptom disorder*” OR (somatic AND symptom*) OR “psychophysiological disorder*” OR “psychophysiologic disorder*” OR psychosomat* OR “persistent physical symptom*” OR “persistent somatic symptom*” OR “bodily distress” OR "body distress" OR “Physical Symptom Disorder” OR “pain disorder*” OR 
+multisomat* OR "multi?somat*" OR polysymptom* OR "poly?symptom*" OR (multiple AND (“physical symptom*” OR “symptom diagnos*”)) OR 
+„frequent attend*” OR „high utilis*” OR „high utiliz*” OR 
+“medically unexplain*” OR “organically unexplain*” OR MUS OR MUPS OR “unexplained medical*” OR "unexplained symptom*" OR "unexplained syndrom*" OR "unexplained illness*" OR 
+nonorganic OR “non?organic” OR “non?specific complain*” OR “non?specific symptom*” OR 
+“psychosomatic syndrom*” OR 
+OR "functional somatic syndrome*" OR "functional somatic disorder*" OR "functional symptom" OR "functional disorder*" OR "functional syndrome*" OR "functional somatic" OR "functional illness*" OR 
+((irritable OR functional) AND (bowel* OR colon*)) OR “functional gastrointestinal*” OR IBS OR 
+fibromyalgia* OR fibrositis OR FM OR fibromyositis OR myofibrositis OR 
+“chronic widespread pain*” OR “widespread musculoskeletal pain*” OR “myofascial pain*” OR “persistent pain*” OR “chronic intractable benign pain*” OR 
+“fatigue syndrome*” OR “psychogenic fatigue” OR “systemic exertion intolerance” OR “myalgic encephalomyelitis*” OR “myalgic encephalopath*” OR CFS OR “CFS/ME” OR “postviral fatigue syndrome*” OR “systemic exertion intolerance*”) 
+AND 
+(cbt OR "cognitive behavioral therap*" OR "cognitive behavioural therap*" OR "cognitive behavioral treatment*" OR "cognitive behavioural treatment*" OR "cognition therap*” OR "cognition treatment*” OR "cognitive therap*” OR "cognitive treatment*” OR 
+"cognitive restructuring" OR (cognitive AND “perceptual change*") OR "cognitive reappraisal" OR “exposure therap*” OR “behavior modification*” OR “behaviour modification*” OR 
+(“problem?solving” AND (therap* OR treatment*)) OR 
+("third wave" AND (therap*OR treatment*)) OR 
+mindful* OR MBT OR MBCT OR MBSR OR 
+(acceptance AND commitment) OR 
+(dialectic* AND (behavioural OR behavioral)) OR DBT OR 
+"metacognitive therap*” OR "metacognitive treatment*” OR "meta?cognitive therap*” OR "meta?cognitive treatment*” OR MCT OR 
+((Schematherap*OR “schema therap*”) AND Young) OR
+“emotion?regulation skills training*” OR “emotion?regulation training*” OR
+“unified protocol*” OR
+“compassion focused therap*” OR “compassionate mind training*” OR
+“well-being therap*” OR
+“functional analytic psychotherap*” OR
+“positive psychotherap*” OR
+“integrative behavioural couples therap*” OR “integrative behavioural couple therap*” OR “mode deactivation therap*”)
+AND
+("double-blind" OR "random* assigned" OR control) 
+
+Limits: Clinical trial, systematic review, meta-analysis 
+ 
+**Psyndex**
+
+OR „Briquet Syndrom*“ OR „Schmerzstörung*“ OR 
+(((„nicht spezifisch*“ OR „unspezifisch*“ OR „unklar*“ OR „medizinisch unerklärt*“ OR „organisch unerklärt*“ OR „nicht erklärt*“) AND („Symptom*“ OR „Syndrom*“)) OR 
+„funktionell* Syndrom*“ OR „funktionell* Störung*“ OR 
+„Reizdarm*“ OR „funktionell* gastrointestinal*“ OR 
+„fibromyalgi*“ OR „fibrositis” OR “fibromyositis” OR “myofibrositis” OR (“myofascial*” AND “Schmerz*”) OR “chronisch* Ganzkörperschmerz*” OR 
+(„Chronisch*“ OR „psychogen*“) AND („Müdigkeit*“ OR „Erschöpfung*“) OR „myalgic encephalomyelitis*“ OR „myalgic encephalopath*” OR “postviral* Erschöpfung*”) 
+AND 
+((“kognitiv*“ AND („Intervention*“ OR „Behandlung*“ OR „Verhaltenstherapie” OR “Therapie*” OR „Umstrukturierung*“ OR „Umbewertung*“)) OR (“kognitiv?behavioral*“ AND („Intervention*“ OR „Behandlung*“ OR „Therapie”)) OR 
+„Exposition*“ OR „Verhaltensmodifikation*“ OR „Verhaltensänderung*“ OR „Problemlösetherapie*“ OR
+(„dritte Welle“ AND („Intervention*“ OR „Behandlung*“ OR „Therapie*”)) OR „achtsamkeit*“ OR ((„akzeptanz*“ OR “acceptance”) AND “commitment*”) OR (“dialectic*” AND (“behavioural” OR “behavioral”)) OR 
+„metakognitiv“ OR „meta?kognitiv“ OR
+((Schematherap* OR “schema therap*”) AND Young) OR „Emotionsregulationstraining*“ OR “Training emotionaler Kompetenz*” OR “unified protocol*” OR
+“compassion focused therap*” OR “compassionate mind training*” OR “well-being therap*” OR
+“functional analytic psychotherap*” OR
+“positive psychotherap*” OR 
+“integrative behavioural couples therap*” OR “integrative behavioural couple therap*” OR “mode deactivation therap*” ) 
+
+**Cochrane Library**
+
+#1  MeSH descriptor: [Conversion Disorder] explode all trees 
+#2  MeSH descriptor: [Somatoform Disorders] explode all trees 
+#3  MeSH descriptor: [Somatoform Disorders] explode all trees 
+#4  MeSH descriptor: [Neurasthenia] explode all trees 
+#5  MeSH descriptor: [Conversion Disorder] explode all trees 
+#6  MeSH descriptor: [Psychophysiologic Disorders] explode all trees 
+#7  MeSH descriptor: [Psychosomatic Medicine] explode all trees 
+#8  MeSH descriptor: [Fibromyalgia] explode all trees 
+#9  MeSH descriptor: [Fatigue Syndrome, Chronic] explode all trees 
+#10  MeSH descriptor: [Irritable Bowel Syndrome] explode all trees 
+#11  MeSH descriptor: [Colonic Diseases, Functional] explode all trees 
+#12  MeSH descriptor: [Somatoform Disorders] explode all trees 
+#13  “somatoform disorder*” OR somatoform OR somatiz* OR somatis* OR “somatic symptom disorder*” OR (somatic AND symptom*) OR (pain NEXT disorder) OR “psychophysiological disorder*” OR “psychophysiologic disorder*” OR psychosomat* OR “persistent physical symptom*” OR “persistent somatic symptom*” OR “bodily distress” OR "body distress" OR “Physical Symptom Disorder” OR “pain disorder*” 
+#14  multisomat* OR "multi?somat*" OR polysymptom* OR "poly?symptom*" OR (multiple AND (“physical symptom*” OR “symptom diagnos*”)) 
+#15  „frequent attend*” OR „high utilis*” OR „high utiliz*” 
+#16  “medically unexplain*” OR “organically unexplain*” OR MUS OR MUPS OR “unexplained medical*” OR "unexplained symptom*" OR "unexplained syndrom*" OR "unexplained illness*" 
+#17  nonorganic OR “non?organic” OR “non?specific complain*” OR “non?specific symptom*” 
+#18  “psychosomatic syndrom*” 
+#19  FSS OR "functional somatic syndrome*" OR "functional somatic disorder*" OR "functional symptom" OR "functional disorder*" OR "functional syndrome*" OR "functional somatic" OR "functional illness*"
+#20  ((irritable OR functional) AND (bowel* OR colon*)) OR “functional gastrointestinal*” OR IBS 
+#21  fibromyalgia* OR fibrositis OR FM OR fibromyositis OR myofibrositis 
+#22  “chronic widespread pain*” OR “widespread musculoskeletal pain*” OR “myofascial pain*” OR “persistent pain*” OR “chronic intractable benign pain*” 
+#23  “fatigue syndrome*” OR “psychogenic fatigue” OR “systemic exertion intolerance” OR “myalgic encephalomyelitis*” OR “myalgic encephalopath*” OR CFS OR “postviral fatigue syndrome*” OR “systemic exertion intolerance*” 
+#24  cbt OR "cognitive behavioral therap*" OR "cognitive behavioural therap*" OR "cognitive behavioral treatment*" OR "cognitive behavioural treatment*" OR "cognition therap*” OR "cognition treatment*” OR "cognitive therap*” OR "cognitive treatment*” 
+#25  "cognitive restructuring" OR ("cognitive perceptual change*") OR "cognitive reappraisal" OR “exposure therap*” OR “behavior modification*” OR “behaviour modification*” 
+#26  (“problem?solving” AND (therap* OR treatment*)) 
+#27  ("third wave" AND (therap*OR treatment*)) 
+#28  mindful* OR MBT OR MBCT OR MBSR 
+#29  (acceptance AND commitment) 
+#30  (dialectic* AND (behavioural OR behavioral)) OR DBT 
+#31  "metacognitive therap*” OR "metacognitive treatment*” OR "meta?cognitive therap*” OR "meta?cognitive treatment*” OR MCT 
+#32  ((Schematherap*OR “schema therap*”) AND Young) 
+#33  “emotion?regulation skills training*” OR “emotion?regulation training*” 
+#34  “unified protocol*” 
+#35  “compassion focused therap*” OR “compassionate mind training*” 
+#36  “well-being therap*” 
+#37  “functional analytic psychotherap*” 
+#38  “positive psychotherap*” 
+#39  “integrative behavioural couples therap*” OR “integrative behavioural couple therap*” OR 
+“mode deactivation therap*” 
+#40  #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 
+#41  #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #32 OR #31 OR #32 OR #33 OR #34 OR #35 OR #37 OR #38 OR #39 
+#42  #40 AND #41 
+
+**Web of Science**
+
+1	TI=(random* AND trial)
+2	ALL=("third wave therapy" OR "third wave treatment*" OR MBSR OR MBCT OR (acceptance AND commitment) OR (dialectic* AND (behavioural OR behavioral)))
+3	ALL=("cognitive behavioral therap*" OR "cognitive behavioural therap*" OR "cognitive behavioral treatment*" OR "cognitive behavioural treatment*")
+4	#2 OR #3
+5	ALL=("irritable bowel syndrome*" OR "functional gastrointestinal*" OR fibromyalgi* OR "chronic widespread pain*" OR "widespread musculoskeletal pain*" OR "chronic fatigue syndrome*" 	OR "myalgic encephalomyelitis*" OR "postviral fatigue syndrome*")
+6	ALL=("psychosomatic syndrom*" OR "functional somatic syndrome*" OR "functional somatic disorder*")
+7	ALL=(nonorganic OR "non?organic" OR "non?specific complain*" OR "non?specific symptom*" )
+8	ALL=("medically unexplained" OR "organically unexplained")
+9	TI=("frequent attend*" OR "high utilis*" OR "high utiliz*")
+10	ALL=("somatoform disorder" OR somatization OR somatisation OR "somatic symptom disorder*" OR "persistent physical symptom*" OR "bodily distress")
+11	#5 OR #6 OR #7 OR #8 OR #9 OR #10
+12	#1 AND #4 AND #11
+13	#12 and Article (Document Types) and English (Languages)
