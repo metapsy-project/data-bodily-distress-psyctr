@@ -1,21 +1,22 @@
 {
   "database.hits" : 4506,
-  "additional.records": 8,
   "database.hits.duplicates.removed" : 943,
   "records.screened" : 3563,
+  "records.from.citation.searching" : 8,
   "full.text.assessed.for.eligibility" : 440,
   "full.text.excluded.reasons" : {
-    "Other disorder" : 23,
-    "Other intervention" : 43,
-    "Other population" : 19,
-    "No RCT" : 31,
-    "Control not inactive" : 20,
-    "Language" : 3,
-    "Unpublished" : 70,
-    "Sample size too small" : 4,
-    "Same sample as other trial" : 118,
-    "Effect size could not be calculated" : 35,
-    "Duplicate" : 5
+    "other disorder" : 23,
+    "other intervention" : 43,
+    "other population" : 19,
+    "no rct" : 31,
+    "control not inactive" : 20,
+    "language" : 3,
+    "unpublished" : 70,
+    "sample size too small" : 4,
+    "same sample as other trial" : 118,
+    "effect size could not be calculated" : 35,
+    "duplicate" : 5
   },
-  "included" : 74
+  "studies.included" : 74,
+  "reports.of.included.studies" : 77
 }
